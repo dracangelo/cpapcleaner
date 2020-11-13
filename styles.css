@@ -1,0 +1,20 @@
+section.up-sells.upsells.products {
+    image-resolution: 200dpi snap;
+        -webkit-image-resolution:200dpi snap;
+        -moz-image-resolution:200dpi snap;
+        -o-image-resolution:200dpi snap;
+        -ms-image-resolution:200dpi snap;
+    max-width:100%;
+    height:auto;
+}
+
+
+img {
+    image-resolution: 200dpi snap;
+        -webkit-image-resolution:200dpi snap;
+        -moz-image-resolution:200dpi snap;
+        -o-image-resolution:200dpi snap;
+        -ms-image-resolution:200dpi snap;
+}
+
+<img role="presentation" alt="" src="https://c00402.247development.net/wp-content/uploads/2018/07/IMG_0308-3.jpg" class="zoomImg" style="position: absolute; top: -87.4806px; left: -480.038px; opacity: 0; width: 981px; height: 710px; border: none; max-width: none; max-height: none;">
